@@ -1,6 +1,6 @@
 ## Work
 - 2023 ~ 2025 / [Division of Software](https://sw.hallym.ac.kr), College of Information Science, [Hallym University](https://www.hallym.ac.kr), South Korea
-- 2024 / 머신러닝연구실
+- 2024~2025 / 머신러닝연구실
 - 2024 / LabChain - 창업동아리
 
 ## Award
