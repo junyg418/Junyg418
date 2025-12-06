@@ -2,6 +2,7 @@
 - 2023 ~ 2025 / [Division of Software](https://sw.hallym.ac.kr), College of Information Science, [Hallym University](https://www.hallym.ac.kr), South Korea
 - 2024~2025 / 머신러닝연구실
 - 2024 / LabChain - 창업동아리
+- 2025.06 ~ 2026.12 / 수도군단 정보보호병
 
 ## Award
 - 2024.11.25 / 정보과학대학 학술Week - 소프트웨어학부 코딩테스트 하급 **1등**
